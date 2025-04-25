@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+    <changeSet id="5" author="kavitharan">
+        <insert tableName="order">
+            <column name="order_id" value="1"/>
+            <column name="customer_id" value="1"/>
+            <column name="order_date" value="2025-04-03"/>
+            <column name="total_amount" value="1000.00"/>
+            <column name="order_status" value="PENDING"/>
+        </insert>
+
+        <insert tableName="order">
+            <column name="order_id" value="2"/>
+            <column name="customer_id" value="1"/>
+            <column name="order_date" value="2025-04-03"/>
+            <column name="total_amount" value="2000.00"/>
+            <column name="order_status" value="PENDING"/>
+        </insert>
+        
+        <insert tableName="order">
+            <column name="order_id" value="3"/>
+            <column name="customer_id" value="2"/>
+            <column name="order_date" value="2025-05-15"/>
+            <column name="total_amount" value="3000.00"/>
+            <column name="order_status" value="SUCCESS"/>
+        </insert>
+    </changeSet>
+</databaseChangeLog>

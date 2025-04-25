@@ -1,0 +1,89 @@
+2025-04-18 11:01:55 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Starting CommonserviceApplication using Java 21.0.2 with PID 11744 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 11:01:55 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 11:01:55 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-18 11:01:55 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-18 11:02:50 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Starting CommonserviceApplication using Java 21.0.2 with PID 15348 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 11:02:50 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 11:02:51 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-18 11:02:51 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-18 11:02:53 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - [] [] 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-18 11:03:59 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Starting CommonserviceApplication using Java 21.0.2 with PID 10812 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 11:03:59 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 11:03:59 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-18 11:03:59 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-18 11:04:01 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - [] [] 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-18 11:05:28 [main] INFO  c.e.c.CommonserviceApplicationTests - [] [] Starting CommonserviceApplicationTests using Java 21.0.2 with PID 12944 (started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 11:05:28 [main] INFO  c.e.c.CommonserviceApplicationTests - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 11:05:30 [main] INFO  c.e.c.CommonserviceApplicationTests - [] [] Started CommonserviceApplicationTests in 3.234 seconds (process running for 5.199)
+2025-04-18 11:07:53 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Starting CommonserviceApplication using Java 21.0.2 with PID 14992 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 11:07:53 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 11:07:53 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-18 11:07:53 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-18 11:07:56 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [] [] LiveReload server is running on port 35729
+2025-04-18 11:07:56 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - [] [] Netty started on port 7070 (http)
+2025-04-18 11:07:57 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Started CommonserviceApplication in 4.273 seconds (process running for 5.445)
+2025-04-18 11:09:32 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - [] [] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-04-18 11:09:32 [Thread-5] INFO  o.s.b.w.e.netty.GracefulShutdown - [] [] Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-18 11:09:32 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - [] [] Graceful shutdown complete
+2025-04-18 11:09:32 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Starting CommonserviceApplication using Java 21.0.2 with PID 14992 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 11:09:32 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 11:09:33 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [] [] LiveReload server is running on port 35729
+2025-04-18 11:09:33 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - [] [] Netty started on port 7070 (http)
+2025-04-18 11:09:33 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Started CommonserviceApplication in 0.871 seconds (process running for 102.053)
+2025-04-18 11:09:33 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [] [] Condition evaluation unchanged
+2025-04-18 11:12:01 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - [] [] Restarting due to 3 class path changes (1 addition, 0 deletions, 2 modifications)
+2025-04-18 11:12:01 [Thread-8] INFO  o.s.b.w.e.netty.GracefulShutdown - [] [] Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-18 11:12:01 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - [] [] Graceful shutdown complete
+2025-04-18 11:17:18 [main] INFO  c.e.c.CommonserviceApplicationTests - [] [] Starting CommonserviceApplicationTests using Java 21.0.2 with PID 14844 (started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 11:17:18 [main] INFO  c.e.c.CommonserviceApplicationTests - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 11:17:20 [main] INFO  c.e.c.CommonserviceApplicationTests - [] [] Started CommonserviceApplicationTests in 3.232 seconds (process running for 5.205)
+2025-04-18 11:17:37 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Starting CommonserviceApplication using Java 21.0.2 with PID 14832 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 11:17:37 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 11:17:37 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-18 11:17:37 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-18 11:17:40 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [] [] LiveReload server is running on port 35729
+2025-04-18 11:17:40 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - [] [] Netty started on port 7070 (http)
+2025-04-18 11:17:40 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Started CommonserviceApplication in 4.258 seconds (process running for 5.533)
+2025-04-18 11:55:47 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Starting CommonserviceApplication using Java 21.0.2 with PID 17860 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 11:55:47 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 11:55:47 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-18 11:55:47 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-18 11:55:50 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - [] [] 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-18 12:40:15 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Starting CommonserviceApplication using Java 21.0.2 with PID 15092 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 12:40:15 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 12:40:15 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-18 12:40:15 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-18 12:40:18 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [] [] LiveReload server is running on port 35729
+2025-04-18 12:40:18 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - [] [] Netty started on port 7070 (http)
+2025-04-18 12:40:18 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Started CommonserviceApplication in 4.442 seconds (process running for 5.668)
+2025-04-18 12:49:01 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Starting CommonserviceApplication using Java 21.0.2 with PID 16132 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 12:49:01 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 12:49:01 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-18 12:49:01 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [] [] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-18 12:49:04 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [] [] LiveReload server is running on port 35729
+2025-04-18 12:49:04 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - [] [] Netty started on port 7070 (http)
+2025-04-18 12:49:04 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Started CommonserviceApplication in 4.405 seconds (process running for 5.598)
+2025-04-18 13:42:41 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - [] [] Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-04-18 13:42:41 [Thread-5] INFO  o.s.b.w.e.netty.GracefulShutdown - [] [] Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-18 13:42:41 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - [] [] Graceful shutdown complete
+2025-04-18 13:42:42 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Starting CommonserviceApplication using Java 21.0.2 with PID 16132 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 13:42:42 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 13:42:43 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [] [] LiveReload server is running on port 35729
+2025-04-18 13:42:43 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - [] [] Netty started on port 7070 (http)
+2025-04-18 13:42:43 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Started CommonserviceApplication in 1.188 seconds (process running for 3224.551)
+2025-04-18 13:42:43 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [] [] Condition evaluation unchanged
+2025-04-18 13:42:57 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - [] [] Restarting due to 4 class path changes (3 additions, 0 deletions, 1 modification)
+2025-04-18 13:42:57 [Thread-19] INFO  o.s.b.w.e.netty.GracefulShutdown - [] [] Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-18 13:42:57 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - [] [] Graceful shutdown complete
+2025-04-18 13:42:57 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Starting CommonserviceApplication using Java 21.0.2 with PID 16132 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-18 13:42:57 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] No active profile set, falling back to 1 default profile: "default"
+2025-04-18 13:42:57 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [] [] LiveReload server is running on port 35729
+2025-04-18 13:42:57 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - [] [] Netty started on port 7070 (http)
+2025-04-18 13:42:57 [restartedMain] INFO  c.e.c.CommonserviceApplication - [] [] Started CommonserviceApplication in 0.712 seconds (process running for 3239.06)
+2025-04-18 13:42:57 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [] [] Condition evaluation unchanged

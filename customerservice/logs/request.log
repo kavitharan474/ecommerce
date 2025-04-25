@@ -1,0 +1,2 @@
+2025-04-18 12:41:27 [http-nio-7071-exec-1] INFO  customerRequestLogger - [] [] Fetching customer with ID: 1
+2025-04-18 12:45:22 [http-nio-7071-exec-3] INFO  customerRequestLogger - [] [] Fetching customer with ID: 2

@@ -1,0 +1,40 @@
+2025-04-17 13:04:15 [] [] INFO  c.e.c.CommonserviceApplication - Starting CommonserviceApplication using Java 21.0.2 with PID 9056 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-17 13:04:15 [] [] INFO  c.e.c.CommonserviceApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-17 13:04:16 [] [] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2025-04-17 13:04:16 [] [] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-04-17 13:04:16 [] [] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 7070 (http)
+2025-04-17 13:04:16 [] [] INFO  c.e.c.CommonserviceApplication - Started CommonserviceApplication in 1.0 seconds (process running for 3211.177)
+2025-04-17 13:04:16 [] [] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-04-17 13:07:05 [N/A] [N/A] INFO  CommonRequestLogger - Fetching product with ID: 1
+2025-04-17 13:08:24 [] [] INFO  c.e.c.CommonserviceApplication - Starting CommonserviceApplication using Java 21.0.2 with PID 16092 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-17 13:08:24 [] [] INFO  c.e.c.CommonserviceApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-17 13:08:24 [] [] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-17 13:08:24 [] [] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-17 13:08:27 [] [] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2025-04-17 13:08:28 [] [] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-04-17 13:08:28 [] [] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 7070 (http)
+2025-04-17 13:08:28 [] [] INFO  c.e.c.CommonserviceApplication - Started CommonserviceApplication in 5.618 seconds (process running for 6.721)
+2025-04-17 13:09:05 [N/A] [N/A] INFO  CommonRequestLogger - Fetching customer with ID: 1
+2025-04-17 13:15:50 [] [] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-04-17 13:15:50 [] [] INFO  o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-17 13:15:50 [] [] INFO  o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete
+2025-04-17 13:15:50 [] [] INFO  c.e.c.CommonserviceApplication - Starting CommonserviceApplication using Java 21.0.2 with PID 16092 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-17 13:15:50 [] [] INFO  c.e.c.CommonserviceApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-17 13:15:51 [] [] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2025-04-17 13:15:51 [] [] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-04-17 13:15:51 [] [] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 7070 (http)
+2025-04-17 13:15:51 [] [] INFO  c.e.c.CommonserviceApplication - Started CommonserviceApplication in 1.479 seconds (process running for 449.98)
+2025-04-17 13:15:51 [] [] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-04-17 13:15:53 [] [] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 16 class path changes (0 additions, 3 deletions, 13 modifications)
+2025-04-17 13:15:53 [] [] INFO  o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-17 13:15:53 [] [] INFO  o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete
+2025-04-17 13:20:44 [] [] INFO  c.e.c.CommonserviceApplication - Starting CommonserviceApplication using Java 21.0.2 with PID 16092 (C:\Ecommerce\commonserviceapi\target\classes started by Kavi in C:\Ecommerce\commonserviceapi)
+2025-04-17 13:20:44 [] [] INFO  c.e.c.CommonserviceApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-17 13:20:45 [] [] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2025-04-17 13:20:45 [] [] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-04-17 13:20:45 [] [] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 7070 (http)
+2025-04-17 13:20:45 [] [] INFO  c.e.c.CommonserviceApplication - Started CommonserviceApplication in 1.034 seconds (process running for 743.532)
+2025-04-17 13:20:45 [] [] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2025-04-17 13:20:49 [] [] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-04-17 13:20:49 [] [] INFO  o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-17 13:20:49 [] [] INFO  o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete

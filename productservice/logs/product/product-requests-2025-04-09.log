@@ -1,0 +1,40 @@
+2025-04-09 12:50:37 [http-nio-7072-exec-2] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/retrieve/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T12:50:37.332586300]
+2025-04-09 12:50:37 [http-nio-7072-exec-2] INFO  productRequestLogger - Received request: GET /products/retrieve/1
+2025-04-09 12:51:53 [http-nio-7072-exec-4] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/retrieve/1], IP: [0:0:0:0:0:0:0:1], Agent: [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36], Time: [2025-04-09T12:51:53.249599]
+2025-04-09 12:51:53 [http-nio-7072-exec-4] INFO  productRequestLogger - Received request: GET /products/retrieve/1
+2025-04-09 12:51:53 [http-nio-7072-exec-5] INFO  productRequestLogger - Request => Method: [GET], URI: [/favicon.ico], IP: [0:0:0:0:0:0:0:1], Agent: [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36], Time: [2025-04-09T12:51:53.576921500]
+2025-04-09 12:54:13 [http-nio-7072-exec-1] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/retrieve/2], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T12:54:13.761714500]
+2025-04-09 12:54:13 [http-nio-7072-exec-1] INFO  productRequestLogger - Received request: GET /products/retrieve/2
+2025-04-09 12:54:22 [http-nio-7072-exec-3] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/retrieve/-123], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T12:54:22.103133300]
+2025-04-09 12:54:22 [http-nio-7072-exec-3] INFO  productRequestLogger - Received request: GET /products/retrieve/-123
+2025-04-09 12:54:26 [http-nio-7072-exec-4] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/retriev], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T12:54:26.292801600]
+2025-04-09 12:54:40 [http-nio-7072-exec-6] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T12:54:40.450129400]
+2025-04-09 12:54:40 [http-nio-7072-exec-6] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 15:37:19 [http-nio-7072-exec-9] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T15:37:19.847117200]
+2025-04-09 15:37:19 [http-nio-7072-exec-9] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 15:40:16 [http-nio-7072-exec-3] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T15:40:16.896171200]
+2025-04-09 15:40:16 [http-nio-7072-exec-3] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 15:43:13 [http-nio-7072-exec-4] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T15:43:13.572233400]
+2025-04-09 15:43:13 [http-nio-7072-exec-4] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 15:46:11 [http-nio-7072-exec-10] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T15:46:11.152948]
+2025-04-09 15:46:11 [http-nio-7072-exec-10] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 15:49:08 [http-nio-7072-exec-1] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T15:49:08.013905600]
+2025-04-09 15:49:08 [http-nio-7072-exec-1] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 15:52:07 [http-nio-7072-exec-5] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T15:52:07.051437800]
+2025-04-09 15:52:07 [http-nio-7072-exec-5] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 15:55:04 [http-nio-7072-exec-6] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T15:55:04.575361]
+2025-04-09 15:55:04 [http-nio-7072-exec-6] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 15:57:53 [http-nio-7072-exec-2] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T15:57:53.183941800]
+2025-04-09 15:57:53 [http-nio-7072-exec-2] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 16:01:39 [http-nio-7072-exec-7] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T16:01:39.420774100]
+2025-04-09 16:01:39 [http-nio-7072-exec-7] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 16:04:37 [http-nio-7072-exec-8] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T16:04:37.887544700]
+2025-04-09 16:04:37 [http-nio-7072-exec-8] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 16:07:34 [http-nio-7072-exec-9] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T16:07:34.585837200]
+2025-04-09 16:07:34 [http-nio-7072-exec-9] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 16:10:32 [http-nio-7072-exec-3] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T16:10:32.925119900]
+2025-04-09 16:10:32 [http-nio-7072-exec-3] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 16:25:54 [http-nio-7072-exec-4] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T16:25:54.745500200]
+2025-04-09 16:25:54 [http-nio-7072-exec-4] INFO  productRequestLogger - Received request: GET /products/1
+2025-04-09 16:28:54 [http-nio-7072-exec-10] INFO  productRequestLogger - Request => Method: [GET], URI: [/products/1], IP: [0:0:0:0:0:0:0:1], Agent: [PostmanRuntime/7.43.3], Time: [2025-04-09T16:28:54.296923500]
+2025-04-09 16:28:54 [http-nio-7072-exec-10] INFO  productRequestLogger - Received request: GET /products/1

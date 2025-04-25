@@ -1,0 +1,24 @@
+2025-04-10 18:09:26.822 [http-nio-7071-exec-1] INFO  CustomerRequestLogger - [64e9815d-69d6-4c8e-b726-c8b1c853b50c] Received request: GET /customers/retrieve/1
+2025-04-10 18:09:26.822 [http-nio-7071-exec-1] INFO  CustomerRequestLogger - [64e9815d-69d6-4c8e-b726-c8b1c853b50c] Fetching customer with ID: 1
+2025-04-10 18:12:37.905 [http-nio-7071-exec-2] INFO  CustomerRequestLogger - [b25dcc19-5b1d-478a-95b8-3e7e92398aa1] Received request: GET /customers/retrieve/1
+2025-04-10 18:12:37.905 [http-nio-7071-exec-2] INFO  CustomerRequestLogger - [b25dcc19-5b1d-478a-95b8-3e7e92398aa1] Fetching customer with ID: 1
+2025-04-10 18:25:43.353 [http-nio-7071-exec-2] INFO  CustomerRequestLogger - [b2223bea-10bc-46f2-a35c-dfe8d8a756e8] Received request: GET /customers/retrieve/2
+2025-04-10 18:25:43.354 [http-nio-7071-exec-2] INFO  CustomerRequestLogger - [b2223bea-10bc-46f2-a35c-dfe8d8a756e8] Fetching customer with ID: 2
+2025-04-10 18:28:41.565 [http-nio-7071-exec-4] INFO  CustomerRequestLogger - [3655ab7e-5221-417b-afad-3e4f9af02270] Received request: GET /customers/3
+2025-04-10 18:28:41.565 [http-nio-7071-exec-4] INFO  CustomerRequestLogger - [3655ab7e-5221-417b-afad-3e4f9af02270] Fetching product  details for Product with ID: 3
+2025-04-10 18:28:46.721 [http-nio-7071-exec-6] INFO  CustomerRequestLogger - [ff647db5-c596-4a4b-a68e-62db2dd840db] Received request: GET /customers/2
+2025-04-10 18:28:46.721 [http-nio-7071-exec-6] INFO  CustomerRequestLogger - [ff647db5-c596-4a4b-a68e-62db2dd840db] Fetching product  details for Product with ID: 2
+2025-04-10 18:37:43.083 [http-nio-7071-exec-2] INFO  CustomerRequestLogger - [0ff7ad02-5908-4f0c-89d0-d30766ba373f] Received request: GET /customers/1
+2025-04-10 18:37:43.083 [http-nio-7071-exec-2] INFO  CustomerRequestLogger - [0ff7ad02-5908-4f0c-89d0-d30766ba373f] Fetching product  details for Product with ID: 1
+2025-04-10 18:38:23.192 [http-nio-7071-exec-4] INFO  CustomerRequestLogger - [923125a4-af56-499f-8b5a-90306a694ec3] Received request: GET /customers/retrieve/1
+2025-04-10 18:38:23.193 [http-nio-7071-exec-4] INFO  CustomerRequestLogger - [923125a4-af56-499f-8b5a-90306a694ec3] Fetching customer with ID: 1
+2025-04-10 18:38:26.532 [http-nio-7071-exec-5] INFO  CustomerRequestLogger - [460cd41a-43c0-4078-ba6a-f73f9f87fe45] Received request: GET /customers/retrieve/3
+2025-04-10 18:38:26.533 [http-nio-7071-exec-5] INFO  CustomerRequestLogger - [460cd41a-43c0-4078-ba6a-f73f9f87fe45] Fetching customer with ID: 3
+2025-04-10 18:59:09.009 [http-nio-7071-exec-2] INFO  CustomerRequestLogger - [67f7c7a43b3f71b2704b0b4a71cab4a1] [704b0b4a71cab4a1] Received request: GET /customers/retrieve/1
+2025-04-10 18:59:09.010 [http-nio-7071-exec-2] INFO  CustomerRequestLogger - [67f7c7a43b3f71b2704b0b4a71cab4a1] [704b0b4a71cab4a1] Fetching customer with ID: 1
+2025-04-10 18:59:13.092 [http-nio-7071-exec-3] INFO  CustomerRequestLogger - [67f7c7a9cfad381e9f741a67be5bd3af] [9f741a67be5bd3af] Received request: GET /customers/retrieve/2
+2025-04-10 18:59:13.093 [http-nio-7071-exec-3] INFO  CustomerRequestLogger - [67f7c7a9cfad381e9f741a67be5bd3af] [9f741a67be5bd3af] Fetching customer with ID: 2
+2025-04-10 18:59:15.972 [http-nio-7071-exec-1] INFO  CustomerRequestLogger - [67f7c7ab985288ae3f7bcfffd1d86bf8] [3f7bcfffd1d86bf8] Received request: GET /customers/retrieve/3
+2025-04-10 18:59:15.972 [http-nio-7071-exec-1] INFO  CustomerRequestLogger - [67f7c7ab985288ae3f7bcfffd1d86bf8] [3f7bcfffd1d86bf8] Fetching customer with ID: 3
+2025-04-10 19:01:48.132 [http-nio-7071-exec-1] INFO  CustomerRequestLogger - [67f7c843671f5a9d122f8396be35ba98] [122f8396be35ba98] Received request: GET /customers/retrieve/2
+2025-04-10 19:01:48.133 [http-nio-7071-exec-1] INFO  CustomerRequestLogger - [67f7c843671f5a9d122f8396be35ba98] [122f8396be35ba98] Fetching customer with ID: 2

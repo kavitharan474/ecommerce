@@ -1,0 +1,36 @@
+2025-04-17 13:08:43 [] [] INFO  c.e.c.CustomerserviceApplication - Starting CustomerserviceApplication using Java 21.0.2 with PID 6152 (C:\Ecommerce\customerservice\target\classes started by Kavi in C:\Ecommerce\customerservice)
+2025-04-17 13:08:43 [] [] INFO  c.e.c.CustomerserviceApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-17 13:08:46 [] [] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-04-17 13:08:46 [] [] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 334 ms. Found 1 JPA repository interface.
+2025-04-17 13:08:48 [] [] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 7071 (http)
+2025-04-17 13:08:48 [] [] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-7071"]
+2025-04-17 13:08:48 [] [] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-17 13:08:48 [] [] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-17 13:08:48 [] [] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-17 13:08:48 [] [] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4593 ms
+2025-04-17 13:08:49 [] [] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-04-17 13:08:49 [] [] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.6.11.Final
+2025-04-17 13:08:50 [] [] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2025-04-17 13:08:50 [] [] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-04-17 13:08:50 [] [] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-04-17 13:08:51 [] [] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5b31a9e3
+2025-04-17 13:08:51 [] [] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-04-17 13:08:51 [] [] INFO  o.hibernate.orm.connections.pooling - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.40
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-04-17 13:08:53 [] [] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-04-17 13:08:53 [] [] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-04-17 13:08:55 [] [] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2025-04-17 13:08:56 [] [] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-7071"]
+2025-04-17 13:08:56 [] [] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 7071 (http) with context path '/'
+2025-04-17 13:08:56 [] [] INFO  c.e.c.CustomerserviceApplication - Started CustomerserviceApplication in 14.222 seconds (process running for 15.261)
+2025-04-17 13:09:06 [] [] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-17 13:09:06 [] [] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-17 13:09:06 [] [] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2025-04-17 13:09:06 [6800b01a64f03cb6c4e3768cf71ee5c3] [c4e3768cf71ee5c3] INFO  CustomerRequestLogger - Fetching customer with ID: 1
+2025-04-17 13:28:21 [6800b49d4e1aaf7a150136b7a9e70598] [150136b7a9e70598] INFO  CustomerRequestLogger - Fetching customer with ID: 1
